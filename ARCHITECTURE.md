@@ -1,6 +1,6 @@
-# Opticloop architecture
+# Optic Loop architecture
 
-Opticloop is an always-on visual critic for coding agents, not a screenshot uploader.
+Optic Loop is an always-on visual critic for coding agents, not a screenshot uploader.
 
 ## Closed loop
 
@@ -31,7 +31,7 @@ Support local vision models and optional hosted providers behind one interface. 
 
 ### Benchmark harness
 
-Run paired agent trials with and without Opticloop. Record wall time, model tokens, tool-output bytes, agent turns, visual score, acceptance-pass rate, and human interventions. The primary metric is cost per correctly completed UI task.
+Run paired agent trials with and without Optic Loop. Record wall time, model tokens, tool-output bytes, agent turns, visual score, acceptance-pass rate, and human interventions. The primary metric is cost per correctly completed UI task.
 
 ## Trust rules
 

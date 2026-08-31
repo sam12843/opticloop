@@ -1,6 +1,6 @@
-# Opticloop
+# Optic Loop
 
-Opticloop is a local visual-verification sidecar for coding agents. It closes the loop between “code changed” and “the UI is correct” while returning compact structured evidence instead of continuously spending context on full screenshots.
+Optic Loop is a local visual-verification sidecar for coding agents. It closes the loop between “code changed” and “the UI is correct” while returning compact structured evidence instead of continuously spending context on full screenshots.
 
 ## MVP loop
 
@@ -33,7 +33,7 @@ The server exposes `visual_check`, accepting either `{ "configPath": "..." }` or
 
 ## Success metrics
 
-Opticloop should be evaluated against a control agent on the same UI tasks:
+Optic Loop should be evaluated against a control agent on the same UI tasks:
 
 - median time to satisfy visual acceptance criteria;
 - correctly completed tasks per dollar;
