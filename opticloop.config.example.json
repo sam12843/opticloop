@@ -1,0 +1,16 @@
+{
+  "url": "http://localhost:3000",
+  "watch": ["src/**/*.{ts,tsx,js,jsx,css,html}"],
+  "viewports": [
+    { "name": "desktop", "width": 1440, "height": 900 },
+    { "name": "mobile", "width": 390, "height": 844 }
+  ],
+  "settleMs": 250,
+  "artifactsDir": ".opticloop",
+  "thresholds": {
+    "maxHorizontalOverflowPx": 1,
+    "minTapTargetPx": 40,
+    "maxVisualDiffPercent": 0.5,
+    "pixelSensitivity": 0.1
+  }
+}

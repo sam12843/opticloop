@@ -1,0 +1,15 @@
+{
+  "url": "http://127.0.0.1:4173",
+  "watch": ["test/fixture/**/*"],
+  "viewports": [
+    { "name": "mobile", "width": 390, "height": 844 }
+  ],
+  "settleMs": 25,
+  "artifactsDir": ".opticloop-test",
+  "thresholds": {
+    "maxHorizontalOverflowPx": 1,
+    "minTapTargetPx": 40,
+    "maxVisualDiffPercent": 0.5,
+    "pixelSensitivity": 0.1
+  }
+}
